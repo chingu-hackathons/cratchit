@@ -1,2 +1,3 @@
 # template
-Chingu Holiday Hackathon 2021 - Team ?
+
+Chingu Holiday Hackathon 2021 - Solo
